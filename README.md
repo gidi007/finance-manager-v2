@@ -61,15 +61,11 @@ npm run dev
 
 ## 📸 Screenshots
 
-![Dashboard V2](https://your-image-url-here.com/dashboard-v2-screenshot.png)
-![AI Insights](https://your-image-url-here.com/ai-insights-screenshot.png)
-![Multi-Currency](https://your-image-url-here.com/multi-currency-screenshot.png)
-
-projects screenshots/Dashboard.png
-projects screenshots/Budget.png
-projects screenshots/Investment.png
-projects screenshots/Reports.png
-projects screenshots/Transactions.png
+https://github.com/gidi007/finance-manager-v2/blob/main/projects%20screenshots/Dashboard.png
+https://github.com/gidi007/finance-manager-v2/blob/main/projects%20screenshots/Budget.png
+https://github.com/gidi007/finance-manager-v2/blob/main/projects%20screenshots/Investment.png
+https://github.com/gidi007/finance-manager-v2/blob/main/projects%20screenshots/Transactions.png
+https://github.com/gidi007/finance-manager-v2/blob/main/projects%20screenshots/Reports.png
 
 ## 🤝 Contributing
 
