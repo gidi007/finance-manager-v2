@@ -65,6 +65,12 @@ npm run dev
 ![AI Insights](https://your-image-url-here.com/ai-insights-screenshot.png)
 ![Multi-Currency](https://your-image-url-here.com/multi-currency-screenshot.png)
 
+projects screenshots/Dashboard.png
+projects screenshots/Budget.png
+projects screenshots/Investment.png
+projects screenshots/Reports.png
+projects screenshots/Transactions.png
+
 ## 🤝 Contributing
 
 We welcome contributions to Finance Manager V2! Please see our [Contributing Guide](CONTRIBUTING.md) for more details on how to get started.
