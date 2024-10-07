@@ -61,11 +61,11 @@ npm run dev
 
 ## 📸 Screenshots
 
-https://github.com/gidi007/finance-manager-v2/blob/main/projects%20screenshots/Dashboard.png
-https://github.com/gidi007/finance-manager-v2/blob/main/projects%20screenshots/Budget.png
-https://github.com/gidi007/finance-manager-v2/blob/main/projects%20screenshots/Investment.png
-https://github.com/gidi007/finance-manager-v2/blob/main/projects%20screenshots/Transactions.png
-https://github.com/gidi007/finance-manager-v2/blob/main/projects%20screenshots/Reports.png
+![Dashboard](https://github.com/gidi007/finance-manager-v2/blob/main/projects%20screenshots/Dashboard.png)
+![Investments](https://github.com/gidi007/finance-manager-v2/blob/main/projects%20screenshots/Investment.png)
+![Transactions](https://github.com/gidi007/finance-manager-v2/blob/main/projects%20screenshots/Transactions.png)
+![Budget](https://github.com/gidi007/finance-manager-v2/blob/main/projects%20screenshots/Budget.png)
+![Reports](https://github.com/gidi007/finance-manager-v2/blob/main/projects%20screenshots/Reports.png)
 
 ## 🤝 Contributing
 
